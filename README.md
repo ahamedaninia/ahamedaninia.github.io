@@ -5,31 +5,34 @@ A majority of these projects were completed during my Masters in Data Science pr
 ## Projects
 
 ### Database work
-Spotify Database Analysis - https://github.com/ahamedaninia/spotify-analysis
-  Showcases grabbing data from an API, flat file, and webpage. Combine the 3 in an SQLite database, and conduct graphical analysis
+Spotify Database Analysis available [Github](https://github.com/ahamedaninia/spotify-analysis)
+
+Showcases grabbing data from an API, flat file, and webpage. Combine the 3 in an SQLite database, and conduct graphical analysis
   
 ### Sentiment Analysis
-2020 election sentiment analysis and election prediction using Twitter -  https://github.com/ahamedaninia/2020-election-sentiment-analysis
+2020 election sentiment analysis and election prediction using Twitter [Github](https://github.com/ahamedaninia/2020-election-sentiment-analysis)
 
-NLP Bag of Words sentiment analysis - https://github.com/ahamedaninia/nlp-bagofwords
+NLP Bag of Words sentiment analysis [Github](https://github.com/ahamedaninia/nlp-bagofwords)
 
 ### Graphical Analysis
-Exam performance analysis - https://github.com/ahamedaninia/school_performance/tree/main
+Exam performance analysis - [Github](https://github.com/ahamedaninia/school_performance/tree/main)
 
-Customer Support Ticket Analysis - https://github.com/ahamedaninia/customer-support-ticket
+Customer Support Ticket Analysis - [Github](https://github.com/ahamedaninia/customer-support-ticket)
 
 
 ### Prediction Analysis
-Diabetes prediction analysis - https://github.com/ahamedaninia/diabetes-disease-prediction/tree/main
-  After cleaning the data, we used a KNN classifier, obtained a 96.11% accuracy, and improved with hyperparameter tuning
+Diabetes prediction analysis - [Github](https://github.com/ahamedaninia/diabetes-disease-prediction/tree/main)
+
+After cleaning the data, we used a KNN classifier, obtained a 96.11% accuracy, and improved with hyperparameter tuning
 
 ### Other Projects in Python
-Hyperparameter tuning - https://github.com/ahamedaninia/hyperparameter-tuning
-  Showcases the use of hyperparameter tuning
+Hyperparameter tuning [Github](https://github.com/ahamedaninia/hyperparameter-tuning)
 
-MNIST-CNN-model - https://github.com/ahamedaninia/MNIST-CNN-model
+Showcases the use of hyperparameter tuning
+
+MNIST-CNN-model [Github](https://github.com/ahamedaninia/MNIST-CNN-model)
   Showcases using a CNN model for image classification
 
 
 ### Projects in R
-Alzheimer’s Disease Analysis - https://github.com/ahamedaninia/Alzheimers-Disease-Analysis
+Alzheimer’s Disease Analysis - [Github](https://github.com/ahamedaninia/Alzheimers-Disease-Analysis)
