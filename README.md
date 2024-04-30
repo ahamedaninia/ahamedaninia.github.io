@@ -2,6 +2,11 @@
 This repository contains data science projects completed by me for academic, self-teaching, and curiousity purposes. These projects are completed in either Jupyter Notebooks or R Markdown files.
 A majority of these projects were completed during my Masters in Data Science program through Bellevue University.
 
+## About Me
+My name is Alex Hamedaninia. I graduated from California State Polytechnic University of Pomona (otherwise known as Cal Poly Pomona) with my BS in Mathematics (Pure) in May 2022, and I graduate from Bellevue University in June 2024 with my Masters of Science in Data Science. 
+
+In my very first class at Bellevue, we read a book called “Everybody Lies” by Seth Stephens-Davidowitz. This incredible book sparked my interest in discovering unimaginable insights through data exploration. This book has inspired me to embark on every data science project I take on with the idea that we can use data to make insights previously unimaginable — people may lie, but the data does not. 
+
 ## Projects
 
 ### Database work
@@ -25,6 +30,9 @@ A majority of these projects were completed during my Masters in Data Science pr
 
 ### Other Projects in Python
 [Hyperparameter tuning](https://github.com/ahamedaninia/hyperparameter-tuning): Practicing increasing accuracy using Grid Search and Hyperparamter Tuning.
+
+## Contact me
+You can contact me at ahamedaninia@gmail.com.
 
 [MNIST-CNN-model](https://github.com/ahamedaninia/MNIST-CNN-model): Showcases using a CNN model for image classification
 
