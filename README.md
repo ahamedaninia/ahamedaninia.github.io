@@ -31,11 +31,11 @@ In my very first class at Bellevue, we read a book called “Everybody Lies” b
 ### Other Projects in Python
 [Hyperparameter tuning](https://github.com/ahamedaninia/hyperparameter-tuning): Practicing increasing accuracy using Grid Search and Hyperparamter Tuning.
 
-## Contact me
-You can contact me at ahamedaninia@gmail.com.
-
 [MNIST-CNN-model](https://github.com/ahamedaninia/MNIST-CNN-model): Showcases using a CNN model for image classification
 
 
 ### Projects in R
 [Alzheimer’s Disease Analysis](https://github.com/ahamedaninia/Alzheimers-Disease-Analysis): Predicts which patients have Alzheimer's based on various health factors.
+
+## Contact me
+You can contact me at ahamedaninia@gmail.com.
