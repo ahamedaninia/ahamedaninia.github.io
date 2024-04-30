@@ -21,6 +21,8 @@ A majority of these projects were completed during my Masters in Data Science pr
 ### Prediction Analysis
 [Diabetes prediction analysis](https://github.com/ahamedaninia/diabetes-disease-prediction/tree/main): Predicting which patients may have diabetes based on various health factors. Increased accuracy via hyperparamter tuning, obtained a 96% accuracy score.
 
+[Bank Customer Churn Prediction](https://github.com/ahamedaninia/bank-churn-prediction): Predicting bank customer churn utilizing logistic regression. Utilized exploratory data analysis (EDA) to gain insights into why customers are churning, obtained 99.87% accuracy for model.
+
 ### Other Projects in Python
 [Hyperparameter tuning](https://github.com/ahamedaninia/hyperparameter-tuning): Practicing increasing accuracy using Grid Search and Hyperparamter Tuning.
 
